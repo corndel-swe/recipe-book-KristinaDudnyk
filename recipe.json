@@ -1,0 +1,88 @@
+[
+  {
+    "recipe_name": "Spaghetti Aglio e Olio",
+    "cooking_time": "15 minutes",
+    "short_description": "A classic Italian pasta dish with garlic, olive oil, and chili flakes.",
+    "recipe": "1. Cook spaghetti according to package directions.\n2. While pasta is cooking, heat olive oil in a large skillet over medium heat. Add garlic and chili flakes and cook until fragrant, about 1 minute.\n3. Drain pasta and add it to the skillet with the garlic oil. Toss to coat.\n4. Serve immediately, topped with grated Parmesan cheese (optional).",
+    "ingredients": [
+      "1 pound spaghetti",
+      "1/2 cup olive oil",
+      "6 cloves garlic, thinly sliced",
+      "1/4 teaspoon red pepper flakes",
+      "Salt and black pepper to taste",
+      "Grated Parmesan cheese (optional)"
+    ]
+  },
+  {
+    "recipe_name": "Chicken Stir-Fry",
+    "cooking_time": "20 minutes",
+    "short_description": "A quick and easy stir-fry with chicken, vegetables, and a savory sauce.",
+    "recipe": "1. Cut chicken into bite-sized pieces and marinate in soy sauce, cornstarch, and ginger for 15 minutes.\n2. Heat oil in a wok or large skillet over high heat. Add chicken and cook until browned.\n3. Add vegetables and stir-fry until tender-crisp.\n4. In a small bowl, whisk together soy sauce, honey, and cornstarch. Add to the wok and cook until sauce thickens.\n5. Serve over rice or noodles.",
+    "ingredients": [
+      "1 pound boneless, skinless chicken breasts",
+      "1 tablespoon soy sauce",
+      "1 tablespoon cornstarch",
+      "1 teaspoon grated ginger",
+      "2 tablespoons vegetable oil",
+      "1 cup broccoli florets",
+      "1 cup sliced carrots",
+      "1/2 cup snow peas",
+      "1/4 cup soy sauce",
+      "2 tablespoons honey",
+      "1 tablespoon cornstarch"
+    ]
+  },
+  {
+    "recipe_name": "Guacamole",
+    "cooking_time": "10 minutes",
+    "short_description": "A creamy and flavorful avocado dip perfect for parties or snacks.",
+    "recipe": "1. In a medium bowl, mash avocados with a fork.\n2. Stir in onion, cilantro, lime juice, jalapeno, and salt.\n3. Serve immediately with tortilla chips.",
+    "ingredients": [
+      "2 ripe avocados",
+      "1/4 cup chopped red onion",
+      "1/4 cup chopped cilantro",
+      "2 tablespoons lime juice",
+      "1 jalapeno, seeded and minced",
+      "Salt to taste"
+    ]
+  },
+  {
+    "recipe_name": "Chocolate Chip Cookies",
+    "cooking_time": "30 minutes",
+    "short_description": "Classic, chewy chocolate chip cookies.",
+    "recipe": "1. Preheat oven to 375°F (190°C). \n2. Cream together butter and sugars until light and fluffy. \n3. Beat in eggs one at a time, then stir in vanilla. \n4. In a separate bowl, whisk together flour, baking soda, and salt. Gradually add to the wet ingredients, mixing until just combined. \n5. Stir in chocolate chips. \n6. Drop by rounded tablespoons onto ungreased baking sheets. \n7. Bake for 10-12 minutes, or until golden brown. \n8. Let cool on baking sheets for a few minutes before transferring to a wire rack to cool completely.",
+    "ingredients": [
+      "1 cup (2 sticks) unsalted butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup packed brown sugar",
+      "2 large eggs",
+      "2 teaspoons vanilla extract",
+      "2 1/4 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1 teaspoon salt",
+      "2 cups chocolate chips"
+    ]
+  },
+  {
+    "recipe_name": "Pancakes",
+    "cooking_time": "20 minutes",
+    "short_description": "Fluffy pancakes perfect for breakfast or brunch.",
+    "recipe": "1. In a large bowl, whisk together flour, baking powder, sugar, and salt.\n2. In a separate bowl, whisk together milk, egg, and melted butter.\n3. Add the wet ingredients to the dry ingredients and mix until just combined.\n4. Heat a lightly oiled griddle or frying pan over medium heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.\n5. Cook until bubbles form on the surface, then flip and cook until browned on the other side.\n6. Serve hot with your favorite toppings.",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 teaspoons baking powder",
+      "2 tablespoons sugar",
+      "1/2 teaspoon salt",
+      "1 cup milk",
+      "1 large egg",
+      "2 tablespoons melted butter"
+    ]
+  },
+  {
+    "recipe_name": "Grilled Cheese Sandwich",
+    "cooking_time": "10 minutes",
+    "short_description": "A classic comfort food made with cheese and bread.",
+    "recipe": "1. Butter one side of each slice of bread.\n2. Place one slice of bread, butter-side down, in a skillet over medium heat.\n3. Top with cheese slices.\n4. Place the other slice of bread, butter-side up, on top of the cheese.\n5. Cook until golden brown on the bottom, then flip and cook until golden brown on the other side and the cheese is melted.\n6. Serve immediately.",
+    "ingredients": ["2 slices of bread", "Butter", "Cheese slices"]
+  }
+]
